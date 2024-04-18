@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:practise/living_home/lamp_switch.dart';
+import 'package:light_bulb/living_home/lamp_switch.dart';
 
 import 'led_bulb.dart';
 import 'lamp.dart';
