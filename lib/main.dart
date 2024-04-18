@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:practise/living_home/living_home_page.dart';
+import 'package:light_bulb/living_home/living_home_page.dart';
 
 void main() => runApp(const MyApp());
 
